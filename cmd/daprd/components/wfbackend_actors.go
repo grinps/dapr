@@ -1,4 +1,4 @@
-//go:build allcomponents || stablecomponents
+//go:build allcomponents || stablecomponents || base
 
 /*
 Copyright 2023 The Dapr Authors
